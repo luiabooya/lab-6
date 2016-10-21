@@ -1,6 +1,49 @@
 {
   "Unit Tests": {
     "coverage": {
+      "/Users/Luia/Apps/Labs/Lab 6/ChoreTracker_starter/app/models/chore.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        2,
+        2,
+        2,
+        2,
+        null,
+        null,
+        3,
+        null,
+        2,
+        null,
+        1,
+        2,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/Luia/Apps/Labs/Lab 6/ChoreTracker_starter/app/models/child.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        0,
+        null,
+        null
+      ],
       "/Users/Luia/Apps/Labs/Lab 6/ChoreTracker_starter/app/models/task.rb": [
         1,
         1,
@@ -9,11 +52,7 @@
         1,
         1,
         null,
-        2,
-        2,
-        null
-      ],
-      "/Users/Luia/Apps/Labs/Lab 6/ChoreTracker_starter/app/models/chore.rb": [
+        1,
         1,
         null
       ],
@@ -267,24 +306,8 @@
       "/Users/Luia/Apps/Labs/Lab 6/ChoreTracker_starter/app/helpers/tasks_helper.rb": [
         0,
         0
-      ],
-      "/Users/Luia/Apps/Labs/Lab 6/ChoreTracker_starter/app/models/child.rb": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
       ]
     },
-    "timestamp": 1477084700
+    "timestamp": 1477093606
   }
 }
