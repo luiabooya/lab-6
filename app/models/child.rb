@@ -6,6 +6,8 @@ class Child < ActiveRecord::Base
   validates_presence_of :last_name
 end
 
-def name
-  "#{first_name} #{last_name}" 
-end
+private
+  
+  def name
+    "#{first_name} #{last_name}" 
+  end
